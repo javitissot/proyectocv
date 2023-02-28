@@ -1,0 +1,51 @@
+
+
+
+body {font-family: Roboto;
+    background-color: rgb(238, 238, 238);
+}
+
+h1{font-size: 55px; font-weight: bold;
+}
+
+
+#clickicono{margin: 0, 0, 200px, 0;
+}
+
+
+
+.contacto{margin-bottom: 5px;
+}
+
+
+
+.caja_informacion_principal{
+    float:left;
+    text-align: center;
+    margin-left: 130px;
+    width: 600px;
+    padding: 0%;
+}
+
+
+.caja_informacion_personal{
+    float: right;
+    text-align: center;
+    border: solid rgb(159, 157, 157) 5px;
+    margin-right: 130px;
+    width: 300px;
+    background-color: rgb(166, 166, 166);
+}
+
+
+
+/* el siguiente css es para acomodar las lineas de el lateral derecho */
+
+.lineasderecha{border-top: solid rgb(159, 157, 157) 5px;
+
+}
+
+
+
+
+
